@@ -17,37 +17,20 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### About me  
 Former programmer hobbyist, now dedicated 24/7 to programming! 🚀
+
+- 🔭 I’m currently working on Holberton School MVP Final project!  
+
+- 🌱 I’m currently learning Scikit Learn on my own!  
+
+- ⚡ Fun fact: I'm a photographer too! The cat in my pfp is named Aegon (yeah, he's named after the GoT character)  
 
 Started off as a teenager wanting to know how computer programs worked, then it became a passion.
 Became a strong self-learner and started coding my own versions of known things. Now studying at Holberton School Uruguay to become a Machine Learning specialized Software engineer.  
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Holberton School MVP Final project!  
-  
-
-- 🌱 I’m currently learning Scikit Learn on my own!  
-  
-
-- ⚡ Fun fact: I'm a photographer too! The cat in my pfp is named Aegon (yeah, he's named after the GoT character)  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 
 </td></tr></table>
 
