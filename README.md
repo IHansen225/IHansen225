@@ -18,10 +18,10 @@
 
 <table>
   <tr>
-    <td>
+    <td style="vertical-align:center">
       <p text-align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ihansen225&show_icons=true&locale=en" alt="ihansen225" /></p>
     </td>
-    <td>
+    <td style="vertical-align:center">
       <p text-align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ihansen225&" alt="ihansen225" /></p>
     </td>
   </tr>
