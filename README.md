@@ -93,7 +93,9 @@ Became a strong self-learner and started coding my own versions of known things.
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihansen225&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 </div>
+
 ## Listen with me!
+
 <div align="center">
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ihk225&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
