@@ -22,7 +22,7 @@ Former programmer hobbyist, now dedicated 24/7 to programming! 🚀
 
 - 🔭 I’m currently working on Holberton School MVP Final project!  
 
-- 🌱 I’m currently learning Scikit Learn on my own!  
+- 🌱 I’m currently honing my skills on JS!  
 
 - ⚡ Fun fact: I'm a photographer too! The cat in my pfp is named Aegon (yeah, he's named after the GoT character)  
 
