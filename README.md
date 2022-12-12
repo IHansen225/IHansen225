@@ -60,5 +60,5 @@ Became a strong self-learner and started coding my own versions of known things.
 
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=Ihansen225&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Ihansen225&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Ihansen225&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Ihansen225&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihansen225&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
