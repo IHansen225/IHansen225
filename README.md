@@ -78,16 +78,11 @@ Became a strong self-learner and started coding my own versions of known things.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ihansen225&&style=flat-square" align="center" />
-</div>  
-  
+<table><tr><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ihansen225&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihansen225&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
@@ -96,19 +91,3 @@ Became a strong self-learner and started coding my own versions of known things.
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ihk225&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
