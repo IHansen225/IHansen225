@@ -1,10 +1,8 @@
-## Hey 👋, I'm Ivan Hansen!                                           ![](https://komarev.com/ghpvc/?username=Ihansen225)
+## Hey 👋, I'm Ivan Hansen!
   
 
-*If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe*  
+####*If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe*  
   
-
-
 
 ### Contact me!  
 <a href="https://github.com/Ihansen225" target="_blank">
@@ -15,7 +13,8 @@
 </a>
 <a href="https://instagram.com/ivoo225" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+![](https://komarev.com/ghpvc/?username=Ihansen225)
   
 ### About me  
 Former programmer hobbyist, now dedicated 24/7 to programming! 🚀
