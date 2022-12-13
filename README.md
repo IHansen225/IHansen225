@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ivan Hansen!  
+## Hey 👋, I'm Ivan Hansen!  ![](https://komarev.com/ghpvc/?username=Ihansen225)
   
 
 *If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe*  
